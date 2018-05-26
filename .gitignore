@@ -1,0 +1,3 @@
+db
+files/*
+!files/files3.html
